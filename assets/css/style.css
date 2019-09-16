@@ -2,3 +2,10 @@
     font-size: 80px;
     font-family: 'Amatic SC', cursive;
 }
+body {
+    background-color: bisque
+}
+.thing {
+	padding: 10px;
+	display: inline-block;
+}
